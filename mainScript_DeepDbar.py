@@ -1,4 +1,10 @@
-# calling script for Unet_CMR to set options
+# BeltramiNet
+# Evaluation codes for the publication
+# Hamilton, Hänninen, Hauptmann, Kolehmainen (2019). 
+# Beltrami-net: domain independent deep D-bar learning for absolute imaging with electrical impedance tomography (a-EIT).
+# https://iopscience.iop.org/article/10.1088/1361-6579/ab21b2
+#
+# Andreas Hauptmann 2019
 
 import DeepDbar as Dbar
 import matplotlib.pyplot as plt
